@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "its-a_fire",
+    "file": "samples/Its_a_fire.mp3",
+    "bpm": "119",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "whoopsie",
+    "file": "samples/whoopsie.mp3",
+    "bpm": "119",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "808s",
+    "file": "samples/808s.mp3",
+    "bpm": "119",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
