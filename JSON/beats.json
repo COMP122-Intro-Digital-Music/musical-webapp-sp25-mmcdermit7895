@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "pulse",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "here_and_there",
+    "pitch": "B3",
+    "pattern": "0000100000001000"
+  },
+  {
+    "name": "wildcard",
+    "pitch": "C#4",
+    "pattern": "00010101110111010100110110010"
+  }
+]
