@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "name": "extended-yet_abrupt",
+    "loop": "2:1:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:0.0",
+        "pitch": "A4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:2.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:2.0",
+        "pitch": "E4",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "droppa_da-bass",
+    "loop": "2:1:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C3",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "surprise_twist",
+    "loop": "2:2:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:1:2.0",
+        "pitch": "D3",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:2.0",
+        "pitch": "C4",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "2:1:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
